@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug/CMakeFiles/01__Variables.dir
+/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir
