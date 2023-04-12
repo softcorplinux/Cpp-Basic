@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug"
+			"value" : "/home/voj/Courses/Cpp/Basic/01. variables/cmake-build-debug"
 		},
 		{
 			"name" : "01__Variables_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/voj/Courses/Cpp/Basic/01. Variables"
+			"value" : "/home/voj/Courses/Cpp/Basic/01. variables"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug"
+			"value" : "/home/voj/Courses/Cpp/Basic/01. variables/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -579,7 +579,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/voj/Courses/Cpp/Basic/01. variables/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -639,7 +639,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/voj/Courses/Cpp/Basic/01. Variables"
+			"value" : "/home/voj/Courses/Cpp/Basic/01. variables"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",

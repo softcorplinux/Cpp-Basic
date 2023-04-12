@@ -1,4 +1,4 @@
-# Install script for directory: /home/voj/Courses/Cpp/Basic/01. Variables
+# Install script for directory: /home/voj/Courses/Cpp/Basic/01. variables
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/voj/Courses/Cpp/Basic/01. variables/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

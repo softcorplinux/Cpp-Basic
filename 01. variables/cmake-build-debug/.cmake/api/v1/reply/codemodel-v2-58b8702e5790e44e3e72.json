@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/voj/Courses/Cpp/Basic/01. Variables/cmake-build-debug",
-		"source" : "/home/voj/Courses/Cpp/Basic/01. Variables"
+		"build" : "/home/voj/Courses/Cpp/Basic/01. variables/cmake-build-debug",
+		"source" : "/home/voj/Courses/Cpp/Basic/01. variables"
 	},
 	"version" : 
 	{
