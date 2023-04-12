@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/02. dataTypes/cmake-build-debug/CMakeFiles/02__dataTypes.dir
+/home/voj/Courses/Cpp/Basic/02. dataTypes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/02. dataTypes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
