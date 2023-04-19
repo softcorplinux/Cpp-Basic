@@ -13,8 +13,7 @@ int main() {
         << "3. Tomatoes\n"
         << "4. Pasta" << endl;
     cout << "Select the number: ";
-    char menu;
-    string s = "Victor";
+    int menu;
     cin >> menu;
 
     switch (menu) { // 3
