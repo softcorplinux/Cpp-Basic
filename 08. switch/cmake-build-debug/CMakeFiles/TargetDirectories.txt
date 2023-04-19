@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/08. switch/cmake-build-debug/CMakeFiles/08__switch.dir
+/home/voj/Courses/Cpp/Basic/08. switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/08. switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
