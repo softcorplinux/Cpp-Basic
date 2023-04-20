@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/10. doWhile/cmake-build-debug/CMakeFiles/10__doWhile.dir
+/home/voj/Courses/Cpp/Basic/10. doWhile/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/10. doWhile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
