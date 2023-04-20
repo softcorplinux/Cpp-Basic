@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/09. while/cmake-build-debug/CMakeFiles/09__while.dir
+/home/voj/Courses/Cpp/Basic/09. while/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/09. while/cmake-build-debug/CMakeFiles/rebuild_cache.dir
