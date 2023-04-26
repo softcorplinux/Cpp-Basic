@@ -2,7 +2,6 @@
  * Created by Victor Isaikin
  */
 #include <iostream>
-#include "string"
 
 using namespace std;
 

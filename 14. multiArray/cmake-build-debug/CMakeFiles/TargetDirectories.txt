@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/14. multiArray/cmake-build-debug/CMakeFiles/14__multiArray.dir
+/home/voj/Courses/Cpp/Basic/14. multiArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/14. multiArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
