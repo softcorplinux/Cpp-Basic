@@ -21,5 +21,5 @@ int getNumber(){
 }
 
 void print(){
-    cout << "Hello from Print" << endl;
+    cout << "Hello from print" << endl;
 }
