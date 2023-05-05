@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug/CMakeFiles/20__pointers.dir
+/home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
