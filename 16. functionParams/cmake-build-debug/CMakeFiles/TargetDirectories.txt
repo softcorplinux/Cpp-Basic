@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/16. functionParams/cmake-build-debug/CMakeFiles/16__functionParams.dir
+/home/voj/Courses/Cpp/Basic/16. functionParams/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/16. functionParams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
