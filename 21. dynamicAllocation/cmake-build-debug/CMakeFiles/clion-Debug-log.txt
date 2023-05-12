@@ -1,4 +1,4 @@
-/home/voj/Applications/clion-2023.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/voj/Applications/clion-2023.1.1/bin/ninja/linux/x64/ninja -G Ninja -S "/home/voj/Courses/Cpp/Basic/20. pointers" -B "/home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug"
+/home/voj/Applications/clion-2023.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/voj/Applications/clion-2023.1.1/bin/ninja/linux/x64/ninja -G Ninja -S "/home/voj/Courses/Cpp/Basic/21. dynamicAllocation" -B "/home/voj/Courses/Cpp/Basic/21. dynamicAllocation/cmake-build-debug"
 -- The C compiler identification is GNU 11.3.0
 -- The CXX compiler identification is GNU 11.3.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug
+-- Build files have been written to: /home/voj/Courses/Cpp/Basic/21. dynamicAllocation/cmake-build-debug

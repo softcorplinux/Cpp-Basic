@@ -2,7 +2,7 @@
 	"entries" : 
 	[
 		{
-			"name" : "20__pointers_BINARY_DIR",
+			"name" : "21__dynamicAllocation_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -11,10 +11,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug"
+			"value" : "/home/voj/Courses/Cpp/Basic/21. dynamicAllocation/cmake-build-debug"
 		},
 		{
-			"name" : "20__pointers_IS_TOP_LEVEL",
+			"name" : "21__dynamicAllocation_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -26,7 +26,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "20__pointers_SOURCE_DIR",
+			"name" : "21__dynamicAllocation_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/voj/Courses/Cpp/Basic/20. pointers"
+			"value" : "/home/voj/Courses/Cpp/Basic/21. dynamicAllocation"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug"
+			"value" : "/home/voj/Courses/Cpp/Basic/21. dynamicAllocation/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -151,7 +151,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/235/bin/cmake/linux/x64/bin/cmake"
+			"value" : "/home/voj/Applications/clion-2023.1.1/bin/cmake/linux/x64/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/235/bin/cmake/linux/x64/bin/cpack"
+			"value" : "/home/voj/Applications/clion-2023.1.1/bin/cmake/linux/x64/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -175,7 +175,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/235/bin/cmake/linux/x64/bin/ctest"
+			"value" : "/home/voj/Applications/clion-2023.1.1/bin/cmake/linux/x64/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -579,7 +579,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/voj/Courses/Cpp/Basic/20. pointers/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/voj/Courses/Cpp/Basic/21. dynamicAllocation/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -639,7 +639,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/voj/Courses/Cpp/Basic/20. pointers"
+			"value" : "/home/voj/Courses/Cpp/Basic/21. dynamicAllocation"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -691,7 +691,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/snap/clion/235/bin/ninja/linux/x64/ninja"
+			"value" : "/home/voj/Applications/clion-2023.1.1/bin/ninja/linux/x64/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -879,7 +879,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "20__pointers"
+			"value" : "21__dynamicAllocation"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -923,7 +923,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/235/bin/cmake/linux/x64/share/cmake-3.25"
+			"value" : "/home/voj/Applications/clion-2023.1.1/bin/cmake/linux/x64/share/cmake-3.25"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
