@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/22. functionPointersParams/cmake-build-debug/CMakeFiles/22__functionPointersParams.dir
+/home/voj/Courses/Cpp/Basic/22. functionPointersParams/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/22. functionPointersParams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
