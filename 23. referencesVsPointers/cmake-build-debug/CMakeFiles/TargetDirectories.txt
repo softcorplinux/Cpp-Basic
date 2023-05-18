@@ -1,0 +1,3 @@
+/home/voj/Courses/Cpp/Basic/23. referencesVsPointers/cmake-build-debug/CMakeFiles/23__referencesVsPointers.dir
+/home/voj/Courses/Cpp/Basic/23. referencesVsPointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/voj/Courses/Cpp/Basic/23. referencesVsPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
